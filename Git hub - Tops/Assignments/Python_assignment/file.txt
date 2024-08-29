@@ -1,0 +1,9 @@
+hello, 
+good morning, 
+how are you?
+Today is wednesday
+Tomorrow is thursday
+Day after tomorrow will be thursday
+And after that weekend starts
+Definationofthegood
+[1,2,3]

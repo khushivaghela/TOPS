@@ -1,0 +1,13 @@
+stdID,stdNAME,SEX,PERCENTAGE,CLASS,Sec,Stream,DOB
+1001,"Surekha Joshi",Female,82,12,A,Science,1998-03-08
+1002,"MAAHI AGARWAL",Female,56,11,C,Commerce,2008-11-23
+1003,"Sanam Verma",Male,59,11,C,Commerce,2006-06-28
+1004,"Ronit Kumar",Male,63,11,C,Commerce,1997-11-05
+1006,"JAHANVI Puri",Female,60,11,B,Commerce,2008-11-07
+1007,"Sanam Kumar",Male,23,12,F,Commerce,1998-03-08
+1008,"Sahil Saras",Male,56,11,C,Commerce,2008-11-07
+1009,"AKSHARA Agarwal",Female,72,12,B,Commerce,2006-10-01
+1010,"STUTI MISHRA",Female,39,11,F,Science,2008-11-23
+1011,"HARSH AGARWAL",Male,42,11,C,Science,1998-03-08
+1013,"AKRITI SAXENA",Female,89,12,A,Science,2008-11-23
+1014,"TANI RASTOGI",Female,82,12,A,Science,2008-11-23
