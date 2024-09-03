@@ -1,0 +1,11 @@
+ContactID,CompanyID,FirstName,LastName,Street,City,State,Zip,IsMain,Email,Phone
+101,1,John,Doe,"123 Main St",Springfeild,IL,13456,1,john.doe@example.com,123-456-7890
+102,2,Lesley,Bland,"456 Elm St",Dayton,OH,98764,0,lesley.bland@example.com,215-555-8800
+103,3,Jane,Smith,"789 Maple st",Austin,TX,25759,1,jane.smith@@example.com,345-678-9012
+104,4,Michael,Johnson,"101 Oak St",Denver,CO,35964,0,michael.johnson@example.com,456-789-0123
+105,5,Emily,Davis,"202 Pine St",Miami,FL,23509,1,emily.davis@example.com,567-890-1234
+106,6,Dianne,Connor,"303 Cedar St",Seattle,WA,26864,0,dianne.connor@example.com,678-901-2345
+107,7,Sarah,Wilson,"404 Birch St",Boston,MA,87560,1,sarah.wilson@example.com,789-012-3456
+108,8,James,Miller,"505 Walnut St",Chicago,IL,24609,0,james.miller@example.com,890-123-4567
+109,9,Laura,Taylor,"606 Hickory St",Phoenix,AZ,56723,1,laura.taylor@example.com,901-234-5678
+110,10,Jack,Lee,"707 Ash St","San Franciso",CA,68053,0,jack.lee@example.com,012-345-6789

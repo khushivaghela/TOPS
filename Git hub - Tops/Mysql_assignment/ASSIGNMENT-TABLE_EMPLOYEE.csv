@@ -1,0 +1,11 @@
+EmployeeID,FirstName,LastName,Salary,HireDate,JobTitle,Email,Phone
+1001,John,Doe,60000.00,2019-05-10,Manager,john.doe@example.com,123-456-7890
+1002,Lesley,Bland,50000.00,2020-06-15,Developer,lesley.bland@example.com,215-555-8800
+1003,Jane,Smith,55000.00,2018-03-22,Analyst,jane.smith@example.com,345-678-9012
+1004,Michael,Johnson,65000.00,2021-01-10,"Team Lead",michael.johnson@example.com,456-789-0123
+1005,Emily,Davis,52000.00,2017-11-05,Designer,emily.davis@example.com,567-890-1234
+1006,Dianne,Connor,48000.00,2022-02-20,Developer,dianne.connor@example.com,678-901-2345
+1007,Sarah,Wilson,54000.00,2016-07-18,Analyst,sarah.wilson@example.com,789-012-3456
+1008,James,Miller,70000.00,2015-12-11,"Senior Manager",james.miller@example.com,890-123-4567
+1009,Laura,Taylor,510000.00,2023-03-14,"HR Specialist",laura.taylor@example.com,901-234-5678
+1010,Jack,Lee,58000.00,2021-08-29,Consultant,jack.lee@example.com,012-345-6789
